@@ -2,6 +2,7 @@ import { defineConfig } from 'vitepress'
 
 // https://vitepress.dev/reference/site-config
 export default defineConfig({
+  base:"/wiki-3squad/",
   title: "3squad wiki",
   description: "All about 3squad projects",
   vite: {
