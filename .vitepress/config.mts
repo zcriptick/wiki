@@ -10,6 +10,70 @@ export default defineConfig({
     },
   },
 
+  locales: {
+    root: {
+      label: 'English',
+      lang: 'en',
+      link: '/en/',
+      themeConfig: {
+        nav: [
+          { text: 'Home', link: '/en/' },
+          { text: 'TRZ Team', link: '/en/trz-team' },
+          { text: 'ZXRP', link: '/en/zxrp' }
+        ],
+        sidebar: {
+          '/en/': [
+            {
+              text: 'TRZ Team',
+              items: [
+                { text: 'Start', link: '/en/trz-team' },
+              ],
+            },
+            {
+              text: 'ZXRP',
+              items: [
+                { text: 'Start', link: '/en/zxrp' },
+                { text: 'Updates', link: '/en/zxrp/updates/' },
+                { text: 'Available items', link: '/en/zxrp/renames/' }
+              ]
+            },
+          ]
+        }
+      }
+    },
+    ru: {
+      label: 'Русский',
+      lang: 'ru',
+      link: '/ru/',
+      themeConfig: {
+        nav: [
+          { text: 'Главная', link: '/ru/' },
+          { text: 'TRZ Team', link: '/ru/trz-team' },
+          { text: 'ZXRP', link: '/ru/zxrp' }
+        ],
+        sidebar: {
+          '/ru/': [
+            {
+              text: 'TRZ Team',
+              items: [
+                { text: 'Начало', link: '/ru/trz-team' },
+              ],
+            },
+            {
+              text: 'ZXRP',
+              items: [
+                { text: 'Начало', link: '/ru/zxrp' },
+                { text: 'Обновления', link: '/ru/zxrp/updates/' },
+                { text: 'Доступные предметы', link: '/ru/zxrp/renames/' }
+              ]
+            },
+          ]
+        }
+      }
+
+    }
+  },
+  
   themeConfig: {
     // https://vitepress.dev/reference/default-theme-config
     nav: [
@@ -25,7 +89,6 @@ export default defineConfig({
         text: 'TRZ Team',
         items: [
           { text: 'Начало', link: '/trz-team' },
-          { text: 'Runtime API Examples', link: '/api-examples' },
         ],
       },
       //{
@@ -37,7 +100,8 @@ export default defineConfig({
       {
         text: 'ZXRP',
         items: [
-          { text: 'Getting Started', link: '/guide/getting-started' },
+          { text: 'Начало', link: '/zxrp' },
+          { text: 'Доступные предметы', link: '/zxrp/renames/' }
         ]
       },
       //{

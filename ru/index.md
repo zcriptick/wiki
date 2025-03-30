@@ -3,18 +3,18 @@
 layout: home
 
 hero:
-  name: "3squad wiki"
-  text: "All about 3squad projects"
+  name: "Вики 3squad"
+  text: "Всё о проектах 3squad"
   actions:
     - theme: brand
-      text: Наш сервер
-      link: /trezv
-    - theme: alt
       text: О нас
-      link: /trz-team
+      link: /ru/trz-team
+    - theme: alt
+      text: ZXRP
+      link: /ru/zxrp
   image:
-    src: /vitepress-logo-large.svg
-    alt: 3sqd Team
+    src: ./3sqd_main_img.png
+    alt: 
 
 features:
   - title: Кто мы?
