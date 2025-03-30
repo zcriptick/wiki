@@ -13,7 +13,7 @@ Our team consists of three members: zcript_, dscss2, and TweaksWr.
 
 Our team has created and continues to create many projects, such as: ZXRP, RS Engine (currently developing the first alpha version), and DisAuth (currently developing the first release).
 
-## About the [ZXRP](/zxrp/) project
+## About the [ZXRP](/en/zxrp/) project
 
 ZXRP is a resource pack that adds a large number of RP items.  
 ZXRP does not change the default Minecraft textures; instead, it applies renaming to items, which then updates their textures.  
