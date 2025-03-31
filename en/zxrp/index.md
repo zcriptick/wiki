@@ -17,7 +17,7 @@ ZXRP was originally created specifically for a vanilla server but later became i
 
 Currently, it is updated monthly and available on [Modrinth](https://modrinth.com/resourcepack/zxrp).  
 The resource pack supports versions `1.21-1.21.1`.  
-The current version of the resource pack is `v3.0.0-release`.
+The current version of the resource pack is `v3.69.0-release`.
 
 ::: danger IMPORTANT  
 For the resource pack to function properly, you must download [CIT Resewn](https://modrinth.com/mod/cit-resewn).  

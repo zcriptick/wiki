@@ -4,7 +4,7 @@ outline: deep
 
 # Table of Available Items
 
-Here are **all** available item renames in the resource pack as of version `v3.0.0-release`.
+Here are **all** available item renames in the resource pack as of version `v3.69.0-release`.
 
 Items marked with * at the end can have additional characters after the main name.
 
@@ -35,6 +35,7 @@ This page was translated using the ChatGPT neural network. If you notice any err
 |![Image](./images/food/beef_tartare.png)|Beef Tartare|Raw Beef|
 |![Image](./images/food/tort.png)|Cake Slice|Cookie|
 |![Image](./images/food/pomidor.png)|Tomato|Potato|
+|![Image](./images/food/lollipop.png)|Леденец|Cookie|
 
 ## Drinks
 
@@ -57,6 +58,7 @@ This page was translated using the ChatGPT neural network. If you notice any err
 |![Image](./images/totems/gold_clock.png)|Golden Clock|Totem of Undying|
 |![Image](./images/totems/mini_clock.png)|Small Clock|Totem of Undying|
 |![Image](./images/totems/ballon.png)|Plush Totem|Totem of Undying|
+|![Image](./images/other/ballon.png)|Воздушный шарик|Totem of Undying|
 
 ## Musical Instruments
 
@@ -79,6 +81,7 @@ This page was translated using the ChatGPT neural network. If you notice any err
 |![Image](./images/weapons/gold_deagle.png)|Golden Deagle|Bow|
 |![Image](./images/weapons/m16.png)|M16|Bow|
 |![Image](./images/weapons/magnum.png)|Revolver|Crossbow|
+|![Image](./images/weapons/water_pistol.png)|Водный пистолет|Bow|
 
 ## Hats and armor
 |Image|Rename|Item|
@@ -93,6 +96,8 @@ This page was translated using the ChatGPT neural network. If you notice any err
 |![Image](./images/hats_armor/ochki.png)|Тёмные очки|Carved pumpkin|
 |![Image](./images/hats_armor/rk.png)|Рождественский колпак|Carved pumpkin|
 |![Image](./images/hats_armor/ushanka.png)|Ушанка|Carved pumpkin|
+|![Image](./images/hats_armor/clown_nose.png)|Клоунский нос|Carved pumpkin|
+|![Image](./images/hats_armor/clown_wig.png)|Клоунский парик|Carved pumpkin|
 
 ## Furniture
 |Image|Rename|Item|
@@ -139,10 +144,14 @@ ZUNO is a card game in ZXRP, created based on the real card game [UNO](https://w
 |![Image](./images/other/spray.png)|Баллончик с краской|Leather horse armor (Texture can be any color)|
 |![Image](./images/other/camera.png)|Игральная карта|Blank card, card|
 |![Image](./images/other/videocamera.png)|Игральная карта|Blank card, card|
+|![Image](./images/other/poop.png)|Какашка|Snowball|
+|![Image](./images/other/UKAZKA.png)|Рука указка|Stick|
+|![Image](./images/other/gudok.png)|Гудок|Any goat horn|
+|![Image](./images/other/ballon.png)|Воздушный шарик|Stick|
 
 ## Additional Information
 
-Table version `v3.0.0-release`. Some textures/models are taken from another resource pack [KSEPSP](https://definitelyawhale.github.io/ksepsp_website/).
+Table version `v3.69.0-release`. Some textures/models are taken from another resource pack [KSEPSP](https://definitelyawhale.github.io/ksepsp_website/).
 
 ### Authors
 
