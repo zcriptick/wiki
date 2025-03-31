@@ -13,7 +13,7 @@ hero:
       text: ZXRP
       link: /ru/zxrp
   image:
-    src: ./3sqd_main_img.png
+    src: ./wiki-3squad/en/3sqd_main_img.png
     alt: 
 
 features:
