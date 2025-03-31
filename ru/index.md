@@ -14,6 +14,7 @@ hero:
       link: /ru/zxrp
   image:
     src: ./images/3sqd_main_img.png
+    src: https://raw.githubusercontent.com/zcriptick/wiki-3squad/refs/heads/main/ru/3sqd_main_img.png
     alt: 
 
 features:
