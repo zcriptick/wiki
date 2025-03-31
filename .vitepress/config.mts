@@ -116,6 +116,7 @@ export default defineConfig({
     socialLinks: [
       { icon: 'modrinth', link: 'https://modrinth.com/organization/trz-team' },
       { icon: "discord", link: "https://discord.gg/sYFxHqkRva" },
+      { icon: "github", link: "https://github.com/zcriptick/wiki-3squad" }
     ]
   }
 })
