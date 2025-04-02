@@ -27,7 +27,7 @@ Without CIT Resewn or similar modifications, the resource pack **will not** work
 ## ZXRP Updates
 
 Almost every month, ZXRP receives a major update, introducing new item renaming based on the update theme.  
-The latest update, `v3.0.0-release`, titled "Activity: Sounding Food," was released on 03/29/2025.
+The latest update, `v3.69.0-release`, titled "Circus Performance" was released on 03/29/2025.
 
 Recently, a post about upcoming updates was published on the [official TRZ Team Telegram channel](https://t.me/trzteam):
 
