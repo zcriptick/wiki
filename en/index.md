@@ -13,7 +13,7 @@ hero:
       text: ZXRP
       link: ./zxrp
   image:
-    src: ./images/3sqd_main_img.png
+    src: https://raw.githubusercontent.com/zcriptick/wiki/refs/heads/main/en/images/3sqd_main_img.png
     alt: 
 
 features:
