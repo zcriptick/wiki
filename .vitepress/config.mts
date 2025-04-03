@@ -5,7 +5,7 @@ export default defineConfig({
   base:"/",
   title: "3squad wiki",
   description: "All about 3squad projects",
-  head: [['link', { rel: 'icon', href: 'https://raw.githubusercontent.com/zcriptick/wiki-3squad/refs/heads/main/trz_logo.png' }]],
+  head: [['link', { rel: 'icon', href: 'https://raw.githubusercontent.com/zcriptick/wiki/refs/heads/main/trz_logo.png' }]],
   vite: {
     server: {
       allowedHosts: ['3sqd.ru']
